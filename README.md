@@ -1,6 +1,12 @@
 # Simon Game
 This is a simple Simon Game implemented using HTML, CSS, JavaScript, and jQuery. The game challenges players to memorize sequences of colors and repeat them in the correct order.
 
+## How to play
+-Watch the Sequence: Simon will show a sequence of colors by lighting up the buttons in a specific order. Watch and remember the sequence carefully.
+-Repeat the Sequence: Click on the buttons in the same order as Simon showed you. Start with the first color and work your way through the sequence.
+-Get it Right: If you repeat the sequence correctly, Simon will show you the next color in the sequence.
+-Make a Mistake: If you make a mistake and click on a wrong color, the game will end, and you'll have to start over from the beginning
+
 ## Live Demo
 You can play the game [here](https://harsha-z1.github.io/SimonGame/).
 
